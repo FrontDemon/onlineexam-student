@@ -4,7 +4,7 @@
 
 1. 此项目为一个基于Vue的前后端分离的在线考试系统项目
 2. 使用了 Vue 全家桶+ES5ES6ES7+Webpack 等前端新技术 
-3. 后端基于SripngBoot搭建SSM框架
+3. 后端基于SpringBoot搭建SSM框架
 4. 包括学生端、教师端和管理员端 
 5. 采用模块化、组件化、工程化的模式开发 
 
@@ -89,5 +89,89 @@
 	<img src="http://qiniu.maweitao.top/student-profile.jpg" alt="Sample"  width="250" height="500">
 	<p align="center">
     <em>学生端消息列表页面</em>
+  </p>
+</p>
+
+<p align="center">
+	<img src="http://qiniu.maweitao.top/paper-list.jpg" alt="Sample"  width="250" height="500">
+	<p align="center">
+    <em>试卷列表页面</em>
+  </p>
+</p>
+
+<p align="center">
+	<img src="http://qiniu.maweitao.top/paper-detail.png" alt="Sample"  width="250" height="500">
+	<p align="center">
+    <em>试卷详情页面</em>
+  </p>
+</p>
+
+<p align="center">
+	<img src="http://qiniu.maweitao.top/single-question.png" alt="Sample"  width="250" height="500">
+	<p align="center">
+    <em>试卷单选题页面</em>
+  </p>
+</p>
+
+<p align="center">
+	<img src="http://qiniu.maweitao.top/multiple-question.jpg" alt="Sample"  width="250" height="500">
+	<p align="center">
+    <em>试卷多选题页面</em>
+  </p>
+</p>
+
+<p align="center">
+	<img src="http://qiniu.maweitao.top/judge-question.png" alt="Sample"  width="250" height="500">
+	<p align="center">
+    <em>试卷判断题页面</em>
+  </p>
+</p>
+
+<p align="center">
+	<img src="http://qiniu.maweitao.top/fill-question.png" alt="Sample"  width="250" height="500">
+	<p align="center">
+    <em>试卷填空题页面</em>
+  </p>
+</p>
+
+<p align="center">
+	<img src="http://qiniu.maweitao.top/answer-card.png" alt="Sample"  width="250" height="500">
+	<p align="center">
+    <em>试卷答题卡页面</em>
+  </p>
+</p>
+
+<p align="center">
+	<img src="http://qiniu.maweitao.top/answer-card.png" alt="Sample"  width="250" height="500">
+	<p align="center">
+    <em>试卷答题卡页面</em>
+  </p>
+</p>
+
+<p align="center">
+	<img src="http://qiniu.maweitao.top/score-report.png" alt="Sample"  width="250" height="500">
+	<p align="center">
+    <em>成绩报告页面</em>
+  </p>
+</p>
+
+<p align="center">
+	<img src="http://qiniu.maweitao.top/wrong-question.png" alt="Sample"  width="250" height="500">
+	<p align="center">
+    <em>错题题目页面</em>
+  </p>
+</p>
+
+<p align="center">
+	<img src="http://qiniu.maweitao.top/wrong-card.png" alt="Sample"  width="250" height="500">
+	<p align="center">
+    <em>错题卡页面</em>
+  </p>
+</p>
+
+<p align="center">
+	<img src="http://qiniu.maweitao.top/collect-question.png" alt="Sample"  width="250" height="500">
+	<p align="center">
+    <em>收藏题目页面</em>
   </p>
 </p>
