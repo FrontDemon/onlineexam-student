@@ -42,10 +42,39 @@
 1. `npm install`
 2. `npm start`
 
-## 6. 演示截图
+## 6. 部分演示截图
 
-![学生端首页](http://qiniu.maweitao.top/student-home.jpg)![学生端错题页面](http://qiniu.maweitao.top/student-wrong.png)
+<p align="center">
+  <p align="center">
+		<em>学生端首页</em>
+	</p>
+	<img src="http://qiniu.maweitao.top/student-home.jpg" alt="Sample"  width="250" height="500">
+</p>
 
-![学生端搜索页面](http://qiniu.maweitao.top/student-search.png)![学生端个人中心页面](http://qiniu.maweitao.top/student-profile.png)
+<p align="center">
+  <p align="center">
+		<em>学生端错题页面</em>
+	</p>
+	<img src="http://qiniu.maweitao.top/student-wrong.png" alt="Sample"  width="250" height="500">
+</p>
 
-![学生端消息列表页面](http://qiniu.maweitao.top/student-profile.jpg)
+<p align="center">
+	<img src="http://qiniu.maweitao.top/student-search.png" alt="Sample"  width="250" height="500">
+	<p align="center">
+		<em>学生端搜索页面</em>
+	</p>
+</p>
+
+<p align="center">
+  <p align="center">
+		<em>学生端个人中心页面</em>
+	</p>
+	<img src="http://qiniu.maweitao.top/student-profile.png" alt="Sample"  width="250" height="500">
+</p>
+
+<p align="center">
+  <p align="center">
+		<em>学生端消息列表页面</em>
+	</p>
+	<img src="http://qiniu.maweitao.top/student-profile.jpg" alt="Sample"  width="250" height="500">
+</p>
