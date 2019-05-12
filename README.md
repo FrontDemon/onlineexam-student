@@ -29,6 +29,7 @@
 5. 学会使用 mint-ui、muse-ui和element-ui 组件库构建界面
 6. 学会使用 mockjs 模拟后台数据接口
 7. 学会通过API接口与后端进行交互  
+8. 学会通过第三方平台七牛云进行图片的存取  
 
 ## 3. 运行项目
 
@@ -42,20 +43,32 @@
 1. `npm install`
 2. `npm start`
 
+## 4. 其他项目地址
+
+[在线考试系统教师端](https://github.com/FrontDemon/onlineexam-teacher)
+
+[在线考试系统管理员端](https://github.com/FrontDemon/onlineexam-admin)
+
+[在线考试系统后端项目源码](https://github.com/FrontDemon/onlineexam-system-backend)
+
+## 4. 在线演示地址
+
+**在线考试系统学生端:** http://maweitao.top/onlineexam-student
+
 ## 6. 部分演示截图
 
 <p align="center">
-  <p align="center">
-		<em>学生端首页</em>
-	</p>
 	<img src="http://qiniu.maweitao.top/student-home.jpg" alt="Sample"  width="250" height="500">
+	<p align="center">
+    <em>学生端首页</em>
+  </p>
 </p>
 
 <p align="center">
-  <p align="center">
-		<em>学生端错题页面</em>
-	</p>
 	<img src="http://qiniu.maweitao.top/student-wrong.png" alt="Sample"  width="250" height="500">
+	<p align="center">
+    <em>学生端错题页面</em>
+  </p>
 </p>
 
 <p align="center">
@@ -66,15 +79,15 @@
 </p>
 
 <p align="center">
-  <p align="center">
-		<em>学生端个人中心页面</em>
-	</p>
 	<img src="http://qiniu.maweitao.top/student-profile.png" alt="Sample"  width="250" height="500">
+	<p align="center">
+    <em>学生端个人中心页面</em>
+  </p>
 </p>
 
 <p align="center">
-  <p align="center">
-		<em>学生端消息列表页面</em>
-	</p>
 	<img src="http://qiniu.maweitao.top/student-profile.jpg" alt="Sample"  width="250" height="500">
+	<p align="center">
+    <em>学生端消息列表页面</em>
+  </p>
 </p>
