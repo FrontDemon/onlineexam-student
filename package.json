@@ -25,7 +25,7 @@
     "muse-ui": "^3.0.2",
     "muse-ui-toast": "^0.3.0",
     "v-viewer": "^1.4.0",
-    "vant": "^1.6.12",
+    "vant": "^2.2.14",
     "vue": "^2.5.2",
     "vue-router": "^3.0.1",
     "vue-schart": "^1.0.0",
